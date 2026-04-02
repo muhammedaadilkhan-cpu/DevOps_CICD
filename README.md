@@ -1,1 +1,1 @@
-echo " This is a ci cd pipeline"
+echo "This is a ci cd pipeline"
